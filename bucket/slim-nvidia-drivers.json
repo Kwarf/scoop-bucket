@@ -1,0 +1,18 @@
+{
+    "homepage": "https://github.com/XhmikosR/slim-nvidia-drivers",
+    "description": "This is a Windows script which simply removes the unneeded stuff/bloatware from NVIDIA drivers package and creates a new archive.",
+    "license": "MIT",
+    "version": "0.5",
+    "url": "https://github.com/XhmikosR/slim-nvidia-drivers/archive/v0.5.zip",
+    "hash": "54dd9e13baa8815cf4f80fb2dccdc43eab42522d6c53fef7ea89832913f6c83b",
+    "extract_dir": "slim-nvidia-drivers-0.5",
+    "bin": "slim-nvidia-drivers.bat",
+    "depends": "7zip",
+    "checkver": {
+        "github": "https://github.com/XhmikosR/slim-nvidia-drivers"
+    },
+    "autoupdate": {
+        "url": "https://github.com/XhmikosR/slim-nvidia-drivers/archive/v$version.zip",
+        "extract_dir": "slim-nvidia-drivers-$version"
+    }
+}

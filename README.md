@@ -11,4 +11,5 @@ scoop bucket add kwarf https://github.com/Kwarf/scoop-bucket.git
 |-------------------------|---------------------------------------------|--------------------------------------------------------|---------|
 | FalconX                 | https://chrisandriessen.nl/web/FalconX.html | https://github.com/ChrisAnd1998/FalconX-Center-Taskbar | MIT     |
 | linx-client             |                                             | https://github.com/andreimarcu/linx-client             | GPLv3   |
+| slim-nvidia-drivers     |                                             | https://github.com/XhmikosR/slim-nvidia-drivers        | MIT     |
 | TinyNvidiaUpdateChecker |                                             | https://github.com/ElPumpo/TinyNvidiaUpdateChecker     | GPLv3   |
