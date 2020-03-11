@@ -2,27 +2,27 @@
     "homepage": "https://github.com/andreimarcu/linx-client",
     "description": "Simple client for linx-server",
     "license": "GPL-3.0-only",
-    "version": "1.5",
+    "version": "1.5.1",
     "architecture": {
         "64bit": {
             "bin": [
                 [
-                    "linx-client-v1.5_windows-amd64.exe",
+                    "linx-client-v1.5.1_windows-amd64.exe",
                     "linx-client"
                 ]
             ],
-            "url": "https://github.com/andreimarcu/linx-client/releases/download/v1.5/linx-client-v1.5_windows-amd64.exe",
-            "hash": "ae15ac7b4481193cacb6b87f248497308098a7d076997c4fc982caf0dd23606f"
+            "url": "https://github.com/andreimarcu/linx-client/releases/download/v1.5.1/linx-client-v1.5.1_windows-amd64.exe",
+            "hash": "7d38b9562d9678a9c78dc672a277267e37fd89e829b6d86ce110eade1dd079ff"
         },
         "32bit": {
             "bin": [
                 [
-                    "linx-client-v1.5_windows-386.exe",
+                    "linx-client-v1.5.1_windows-386.exe",
                     "linx-client"
                 ]
             ],
-            "url": "https://github.com/andreimarcu/linx-client/releases/download/v1.5/linx-client-v1.5_windows-386.exe",
-            "hash": "fb344eb8a9cb55c42451aa1259758ae77e0bcbafdf3481d3158d6d10ac8c0988"
+            "url": "https://github.com/andreimarcu/linx-client/releases/download/v1.5.1/linx-client-v1.5.1_windows-386.exe",
+            "hash": "6b4a4aee41f8bd70c93302b1acff8dfafdfb035cd67ca7ae3ce0b41a99c6d7a3"
         }
     },
     "checkver": {
